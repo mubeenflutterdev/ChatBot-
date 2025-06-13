@@ -129,7 +129,7 @@ class _ChatScreenState extends State<ChatScreen> {
                     ],
                   ),
                 ),
-
+///// code here 
               // Text field + Send button
               Padding(
                 padding: EdgeInsets.symmetric(horizontal: width * .03),
